@@ -1,4 +1,4 @@
-// Write your code here!
-//main.removeChild(main.querySelector('main#main'));
+let lolo =main.removeChild(document.querySelector('#main'));
+/*main.removeChild(main.querySelector('#main'));
 let newHeader = document.createElement("h1#victory")
 document.body.appendChild(newHeader)
